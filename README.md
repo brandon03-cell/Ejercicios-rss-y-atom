@@ -1,13 +1,13 @@
-# Proyecto: Feed RSS y Atom - Explora Ciudades
+# Proyecto: Explora Ciudades
 
 El proyecto consiste en la creación de dos archivos, uno RSS 2.0 y otro Atom 1.0 para el blog de viajes urbanos "Explora Ciudades".
 
 ## Archivos incluidos
 - `viajes.rss`: Feed en formato RSS 2.0 con 4 entradas sobre rutas urbanas.
-- `viajes.atom`: Feed en formato Atom 1.0 con la misma información y fechas validadas.
+- `viajes.atom`: Feed en formato Atom 1.0 con la misma información y fechas validadas en formato ISO 8601.
 
 ## Validación
-Ambos archivos han sido validados mediante el W3C Feed Validator, asegurando que cumplen con los estándares actuales.
+Ambos archivos han sido validados mediante W3C Feed Validator.
 
 ### Prueba de validación RSS
 ![Validación RSS](valid-rss.png)
