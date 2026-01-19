@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Explora Ciudades</title>
+    <link>https://www.exploraciudades.com</link>
+    <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+    
+    <item>
+      <title>Ruta gastronómica por Barcelona</title>
+      <link>https://www.exploraciudades.com/ruta-barcelona</link>
+      <description>Una guía para comer lo mejor de Barcelona en el fin de semana.</description>
+      <guid>https://www.exploraciudades.com/ruta-barcelona</guid>
+    </item>
+    
+    <item>
+      <title>Los mejores miradores de París</title>
+      <link>https://www.exploraciudades.com/miradores-paris</link>
+      <description>Descubre desde dónde ver la Torre Eiffel y todo París desde las alturas.</description>
+      <guid>https://www.exploraciudades.com/miradores-paris</guid>
+    </item>
+    
+    <item>
+      <title>Cómo moverse en Nueva York en 3 días</title>
+      <link>https://www.exploraciudades.com/moverse-nueva-york</link>
+      <description>Trucos para usar el metro y no perderte en la ciudad que nunca duerme.</description>
+      <guid>https://www.exploraciudades.com/moverse-nueva-york</guid>
+    </item>
+    
+    <item>
+      <title>Museos imperdibles de Tokio</title>
+      <link>https://www.exploraciudades.com/museos-tokio</link>
+      <description>Los museos de arte y tecnología que tienes que visitar en Japón.</description>
+      <guid>https://www.exploraciudades.com/museos-tokio</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Explora Ciudades</title>
+    <link href="https://www.exploraciudades.com"/>
+    <updated>2026-01-19T12:00:00Z</updated>
+    <id>https://www.exploraciudades.com</id>
+    <author>
+        <name>Explora Ciudades</name>
+    </author>
+
+    <entry>
+        <title>Ruta gastronómica por Barcelona</title>
+        <link href="https://www.exploraciudades.com/ruta-barcelona"/>
+        <id>https://www.exploraciudades.com/ruta-barcelona</id>
+        <updated>2026-01-19T08:00:00Z</updated>
+        <summary>Una guía para comer lo mejor de Barcelona en un fin de semana.</summary>
+    </entry>
+
+    <entry>
+        <title>Los mejores miradores de París</title>
+        <link href="https://www.exploraciudades.com/miradores-paris"/>
+        <id>https://www.exploraciudades.com/miradores-paris</id>
+        <updated>2026-01-19T09:00:00Z</updated>
+        <summary>Descubre desde dónde ver la Torre Eiffel y todo París desde las alturas.</summary>
+    </entry>
+
+    <entry>
+        <title>Cómo moverse en Nueva York en 3 días</title>
+        <link href="https://www.exploraciudades.com/moverse-nueva-york"/>
+        <id>https://www.exploraciudades.com/moverse-nueva-york</id>
+        <updated>2026-01-19T10:00:00Z</updated>
+        <summary>Trucos para usar el metro y no perderte en la ciudad que nunca duerme.</summary>
+    </entry>
+
+    <entry>
+        <title>Museos imperdibles de Tokio</title>
+        <link href="https://www.exploraciudades.com/museos-tokio"/>
+        <id>https://www.exploraciudades.com/museos-tokio</id>
+        <updated>2026-01-19T11:00:00Z</updated>
+        <summary>Los museos de arte y tecnología que tienes que visitar en Japón.</summary>
+    </entry>
+</feed>
